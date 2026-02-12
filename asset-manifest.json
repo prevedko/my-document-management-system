@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-document-management-system/static/css/main.e6c13ad2.css",
+    "main.js": "/my-document-management-system/static/js/main.85ce604e.js",
+    "index.html": "/my-document-management-system/index.html",
+    "main.e6c13ad2.css.map": "/my-document-management-system/static/css/main.e6c13ad2.css.map",
+    "main.85ce604e.js.map": "/my-document-management-system/static/js/main.85ce604e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.85ce604e.js"
+  ]
+}
